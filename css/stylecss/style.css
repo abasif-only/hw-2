@@ -1,0 +1,23 @@
+h1{
+	color: blue;
+	background-color: skyblue;
+}
+p{
+	color: gold; 
+	background-color: red;	
+}
+address{
+	color: purple;
+	background-color: lightgrey;
+}
+h2{
+	color: peru;
+	border: double;
+	border-color: blue;
+}
+table, th, td {
+  border: 1px solid black;
+}
+h4{
+	color: darkblue;
+}
